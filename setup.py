@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
 	name = "gslmathieu",
-	version = "0",
+	version = "1",
 	description = "GSL Mathieu functions",
 	url = "https://codeberg.org/mnhrdt/gslmathieu",
 	classifiers = [
@@ -12,6 +12,6 @@ setuptools.setup(
 		"Topic :: Scientific/Engineering :: Mathematics"
 		],
 	author = "Enric Meinhardt-Llopis",
-	author_email = "enric.meinhardt@fastmail.com",
+	author_email = "enric.meinhardt@ens-paris-saclay.fr",
 	py_modules = ["gslmathieu"]
 )
